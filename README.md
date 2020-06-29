@@ -12,7 +12,7 @@ Women Who Code - Data Science<BR/>
 - [Classification (part1)](https://www.youtube.com/watch?v=DXG07IJLnf0&feature=youtu.be)
 - [Classification (part2)](https://www.youtube.com/watch?v=SpaWs71yFZ4&list=PLVcEZG2JPVhfK8MnBqcxAzwMIfpH0XpX9&index=7&t=0s)
 - [Regression (part1)](https://www.youtube.com/watch?v=pl5VNmO9a4g&list=PLVcEZG2JPVhfK8MnBqcxAzwMIfpH0XpX9&index=7&t=3s): dataset "Hotel booking demand", from [Kaggle](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
-- Regression (part2)
+- [Regression (part2)](https://www.youtube.com/watch?v=kI6UgBdzgiQ&list=PLVcEZG2JPVhfK8MnBqcxAzwMIfpH0XpX9&index=8)  dataset: HousingPricePrediction
 - Model Evaluation
 
 ## Tools
