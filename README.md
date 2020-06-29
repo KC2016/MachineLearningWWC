@@ -2,7 +2,7 @@
 <img src = "images/MachineLearningWWC.png" width=400>  <br/> 
 <p>
 
-# MachineLearningWWC
+# MachineLearningWWC  (IN DEVELOPMENT)
 Serie of Machine Learning courses <BR/> 
 by Sumana Ravikrishnan<BR/>
 Women Who Code - Data Science<BR/> 
