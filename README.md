@@ -22,3 +22,4 @@ Women Who Code - Data Science<BR/>
 ## other references
 
 [cross validations](https://www.youtube.com/watch?v=7062skdX05Y)
+[Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg)
